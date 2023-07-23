@@ -1,1 +1,1 @@
-# Our paper has been submitted, and We will release the codes upon acceptance.
+# The official pytorch implementation for paper "SCMDA"
